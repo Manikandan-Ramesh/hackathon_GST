@@ -28,3 +28,6 @@ Best Model performance metrics:
 ### How to run
 1). Clone the repo.
 2). run Hackathon_ManikandanRamesh.ipynb code file
+
+### contest details
+https://event.data.gov.in/challenge/online-challenge-for-developing-a-predictive-model-in-gst/
